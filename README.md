@@ -1,7 +1,7 @@
 <h1>Food Ordering System</h1>
 <p>This project is for VTU DBMS Mini Project. This project is completely based on PHP.<br>
 It incorporates all the DBMS functionalities.<br>
-Hope you like it!
+Hope you like it!😂!
 
 <h2>Installation</h2>
 <ul>
